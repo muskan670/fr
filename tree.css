@@ -1,0 +1,55 @@
+
+    
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+}
+
+.image{
+    background:url(plzz.jpg)no-repeat ;
+    -webkit-background-size:cover ;
+    height: 100vh;
+}
+
+.navbar {
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    background-color: transparent;
+    /* background-color: #5ea4e5; */
+
+    /* padding: 20px 50px; */
+    /* padding-left: 50px; */
+    
+
+}
+a{
+    color: #0f0e0e;
+    text-decoration: none;
+    font-size: larger;
+    margin: 3px;
+padding-left: 10px;
+}
+
+.logo {
+    color: rgb(6, 5, 5);
+    font-size: 24px;
+    /* margin-left:5px ;    */
+    padding-right: 70%;
+}
+    
+    h1{
+        display: inline;
+        justify-content:center ;
+        font-size: 70px;
+    }
+    button{
+        font-size: 20px;
+        background-color:transparent;
+    }
+    img{
+        mix-blend-mode: multiply;
+    }
